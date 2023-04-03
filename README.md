@@ -4,6 +4,12 @@ Recolor an image with colors you selected with a pipette
 
 스포이드로 고른 색으로 이미지를 다시 색칠하세요.
 
+original
+![cosmeport00](https://user-images.githubusercontent.com/122879737/229393467-d662d3e6-f938-454a-ba57-7f4fabd8425d.jpg)
+
+recolor with 17 colors I chose vs recolor with 17 dominant colors
+![compare](https://user-images.githubusercontent.com/122879737/229393493-6cec0f4a-671a-46dd-8b41-d6f0ebbfadec.jpg)
+
 ------------
 
 **pipette.ipynb**
